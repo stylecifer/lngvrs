@@ -7,6 +7,7 @@
 ## Goal
 
 The goal of this lesson is to deploy our completed project to Vercel.
+//I'm just redeployed it 
 
 > Be sure to switch to the `10-lesson` branch in your local environment.
 
